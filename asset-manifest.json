@@ -1,13 +1,13 @@
 {
-  "main.css": "/wildbeatslanding/static/css/main.54cfb883.chunk.css",
-  "main.js": "/wildbeatslanding/static/js/main.a7f2aac5.chunk.js",
-  "main.js.map": "/wildbeatslanding/static/js/main.a7f2aac5.chunk.js.map",
-  "static/js/1.7434611c.chunk.js": "/wildbeatslanding/static/js/1.7434611c.chunk.js",
-  "static/js/1.7434611c.chunk.js.map": "/wildbeatslanding/static/js/1.7434611c.chunk.js.map",
-  "runtime~main.js": "/wildbeatslanding/static/js/runtime~main.efc5be8a.js",
-  "runtime~main.js.map": "/wildbeatslanding/static/js/runtime~main.efc5be8a.js.map",
-  "static/css/main.54cfb883.chunk.css.map": "/wildbeatslanding/static/css/main.54cfb883.chunk.css.map",
-  "index.html": "/wildbeatslanding/index.html",
-  "precache-manifest.22aaa049ac7ea24e73c22f40e5064114.js": "/wildbeatslanding/precache-manifest.22aaa049ac7ea24e73c22f40e5064114.js",
-  "service-worker.js": "/wildbeatslanding/service-worker.js"
+  "main.css": "/wildbeatsreact.git/static/css/main.54cfb883.chunk.css",
+  "main.js": "/wildbeatsreact.git/static/js/main.a7f2aac5.chunk.js",
+  "main.js.map": "/wildbeatsreact.git/static/js/main.a7f2aac5.chunk.js.map",
+  "static/js/1.7434611c.chunk.js": "/wildbeatsreact.git/static/js/1.7434611c.chunk.js",
+  "static/js/1.7434611c.chunk.js.map": "/wildbeatsreact.git/static/js/1.7434611c.chunk.js.map",
+  "runtime~main.js": "/wildbeatsreact.git/static/js/runtime~main.bc1703ca.js",
+  "runtime~main.js.map": "/wildbeatsreact.git/static/js/runtime~main.bc1703ca.js.map",
+  "static/css/main.54cfb883.chunk.css.map": "/wildbeatsreact.git/static/css/main.54cfb883.chunk.css.map",
+  "index.html": "/wildbeatsreact.git/index.html",
+  "precache-manifest.1276dd3757151c68257c97f0e1ef8ebb.js": "/wildbeatsreact.git/precache-manifest.1276dd3757151c68257c97f0e1ef8ebb.js",
+  "service-worker.js": "/wildbeatsreact.git/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wildbeatslanding/precache-manifest.22aaa049ac7ea24e73c22f40e5064114.js"
+  "/wildbeatsreact.git/precache-manifest.1276dd3757151c68257c97f0e1ef8ebb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/wildbeatslanding/index.html", {
+workbox.routing.registerNavigationRoute("/wildbeatsreact.git/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
